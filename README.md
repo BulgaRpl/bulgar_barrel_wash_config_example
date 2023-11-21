@@ -1,0 +1,1 @@
+# bulgar_barrel_wash_config_example
